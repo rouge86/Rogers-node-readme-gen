@@ -18,7 +18,7 @@ node index.js
 
 ## Screenshot
 
-![alt text]()
+![alt text](https://github.com/rouge86/Rogers-node-readme-gen/blob/8a50fc378450a732dece7b5f7bdd0c55c0b1a933/screenshot.png)
 
 ## User Story
 
