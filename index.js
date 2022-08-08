@@ -79,7 +79,7 @@ function init() {
     .prompt(questions)
     .then((answers) => {
       const mark = MarkDown.generateReadme(answers);
-      fs.writeFile("README.md", mark, function (err) {
+      fs.writeFile("userREADME.md", mark, function (err) {
         if (err) {
           console.log("could not save file", err);
         } else {
